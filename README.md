@@ -1,6 +1,8 @@
-## Your Name
+## Pegah Nazari
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm a creative thinker with a strong technical background. I'm passionate about using technology to solve real-world problems. I've recently graduated from Makers Academy, a developer bootcamp where I learned the fundamentals of software development. I'm now looking for my first role as a Junior Developer.
+
+I'm excited about the potential of technology to make a positive impact on the world. I want to use my skills to develop innovative solutions to real-world problems. I'm also excited about the opportunity to work with talented and passionate people who are also committed to making a difference.
 
 ## Projects
 
@@ -11,59 +13,75 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Self Employed** (February 2020 to December 2022)  
+_Interior Architect_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Managed and acquired projects
+- Focused on interior design styling to add value to properties, requiring a deep understanding of market trends and consumer preferences
+- Honed communication skills through interactions with clients, suppliers, and team members
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Lorenc Design** (February 2019 to January 2020)  
+_Interior Architect_
 
-- Any experience relevent to software development
+- Worked on a high budget project, gaining valuable experience in project management, design concept development, and technical drawing
+- Dealt with a highly demanding client, developing effective skills to achieve project goals successfully
+- Honed communication skills through interactions with clients, suppliers, and team members
+
+**Silver& Co** (June 2017 to December 2018)  
+_Interior Architect_
+
+- Consulted with clients to determine architectural preferences to meet overall design goals
+- Developed concepts and prepared interior equipment and finishes
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+As a seasoned Interior Architect, I have honed my skills in approaching each project with boundless creativity and an unwavering commitment to quality. My ability to work collaboratively with clients, colleagues, and contractors has been instrumental in bringing each project to life. Through years of experience, I have also developed exceptional project management skills, enabling me to prioritize tasks and meet strict deadlines without sacrificing quality.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+Driven by a passion for excellence, I am now embarking on a new career path in software development. My ability to think critically, communicate effectively, and adapt to changing circumstances make me well-suited for this exciting and dynamic field. I am eager to bring my unique perspective to the table and contribute to innovative solutions that push the boundaries of what's possible.
 
+#### Communication skills:
 
-Here's an example
+I had the opportunity to communicate with clients, contractors, and other stakeholders. I am able to clearly and concisely explain my ideas as well as listen to and understand the needs of others.
 
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+#### Problem-solving skills:
 
-#### Another skill
+I was constantly faced with challenges and problems to solve. I had the opportunity to quickly identify the root cause of a problem, develop a solution, and then communicate that solution to others.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Attention to detail:
 
-#### Another skill
+I had the keen eye for detail. I was able to spot even the smallest errors in my work, as even a small mistake could have a significant impact on the final product.
 
+#### Technical skills:
+
+I was proficient in using a variety of software programs, including CAD, 3D modeling, and design software.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (April 2023 to Aug 2023)
+During my time at Makers Academy, I immersed myself in the world of software development using the Agile/XP methodology. I gained proficiency in Object-Oriented Programming (OOP), Test-Driven Development (TDD), Model-View-Controller (MVC), and Domain-Driven Design (DDD). These skills helped me write clean, efficient, and scalable code.
 
-#### Your University / College (start_date to end_date)
+I also honed my abilities in Ruby and Rails, as well as JavaScript, allowing me to develop robust and interactive web applications. To ensure the quality of my code, I regularly used testing frameworks such as RSpec and Jasmine, which helped me write reliable and bug-free code.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+In addition to these technical skills, I worked extensively in a Pair programming environment, where teamwork and communication were essential. Collaborating with other developers allowed me to share knowledge and approaches, and it was often through these interactions that we were able to find the most effective solutions to problems.
 
-#### Any other qualifications
+Overall, my time at Makers Academy helped me develop into a self-sufficient developer who values best practices and works collaboratively to create high-quality code.
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Middlesex University (2013 to 2017)
+- Bachelor of Arts in Interior Architecture
+- Graduated with First Class Honours
+- Awarded scholarship for academic achievement
 
-## Hobbies
+#### PMP Certification (2022)
+Certified Project Management Professional with enhanced skills in leading and managing
 
-Any cool stuff that makes you a super part of a software development team
+## Interests
+
+World explorer:
+Passionate world traveler with a thirst for knowledge and adventure. I have visited over 20 countries and have learned about different cultures and people.
+
+Fitness enthusiast:
+Health-conscious and motivated individual who enjoys a variety of physical activities. I find that exercise helps me to stay healthy, happy, and productive.
+
+Culinary adventure:
+Creative and adventurous cook who loves to try new recipes. I find that cooking is a great way to be creative and to learn new things while also indulging my taste buds.
+
