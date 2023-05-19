@@ -57,7 +57,7 @@ I was proficient in using a variety of software programs, including CAD, 3D mode
 
 ## Education
 
-#### Makers Academy (April 2023 to Aug 2023)
+#### Makers Academy (April 2023 to July 2023) Software Engineering
 During my time at Makers Academy, I immersed myself in the world of software development using the Agile/XP methodology. I gained proficiency in Object-Oriented Programming (OOP), Test-Driven Development (TDD), Model-View-Controller (MVC), and Domain-Driven Design (DDD). These skills helped me write clean, efficient, and scalable code.
 
 I also honed my abilities in Ruby and Rails, as well as JavaScript, allowing me to develop robust and interactive web applications. To ensure the quality of my code, I regularly used testing frameworks such as RSpec and Jasmine, which helped me write reliable and bug-free code.
@@ -66,7 +66,16 @@ In addition to these technical skills, I worked extensively in a Pair programmin
 
 Overall, my time at Makers Academy helped me develop into a self-sufficient developer who values best practices and works collaboratively to create high-quality code.
 
-#### Middlesex University (2013 to 2017)
+#### Code First Girls (May 2023 to Aug 2023) Software Engineering
+
+Scholarship, sponsored by The Travel Corporation
+During my participation in the CFG Software Engineering program, I gained expertise in building and integrating APIs and microservices, enabling seamless communication between software systems. 
+
+I also developed a strong understanding of various data structures and libraries, enhancing efficiency in data management and manipulation. Proficiency in object-oriented programming allowed me to create modular and scalable software solutions. Additionally, I mastered recursion programming techniques and linked lists, empowering efficient data traversal and manipulation. 
+
+Advanced debugging skills and the ability to design efficient algorithms ensured robust and error-free software solutions. With proficiency in Python, I utilized its extensive libraries and frameworks for rapid application development. Acquiring knowledge of the MySQL database management system enabled effective storage and retrieval of data in relational databases. Skills in Tableau facilitated insightful data analysis and presentation, while expertise in PowerBi enabled the creation of interactive reports and dashboards for data-driven decision-making. 
+
+#### Middlesex University (2013 to 2017) Interior Architect & Design
 - Bachelor of Arts in Interior Architecture
 - Graduated with First Class Honours
 - Awarded scholarship for academic achievement
