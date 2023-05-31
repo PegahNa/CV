@@ -1,6 +1,6 @@
 ## Pegah Nazari
 
-I'm a creative thinker with a strong technical background. I'm passionate about using technology to solve real-world problems. I've recently graduated from Makers Academy, a developer bootcamp where I learned the fundamentals of software development. I'm now looking for my first role as a Junior Developer.
+I'm a creative thinker with a strong technical background. I'm passionate about using technology to solve real-world problems. I've recently graduated from Makers Academy, a developer bootcamp where I learned the fundamentals of software development. I'm now looking for my first role as a Junior Software Engineer.
 
 I'm excited about the potential of technology to make a positive impact on the world. I want to use my skills to develop innovative solutions to real-world problems. I'm also excited about the opportunity to work with talented and passionate people who are also committed to making a difference.
 
