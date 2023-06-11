@@ -13,6 +13,13 @@ I'm excited about the potential of technology to make a positive impact on the w
 
 ## Work Experience
 
+**The Travel Corporation** (September 2023 to )  
+_Software Engineer_
+
+- ........
+- ........
+- ........
+
 **Self Employed** (February 2020 to December 2022)  
 _Interior Architect_
 
