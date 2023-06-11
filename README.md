@@ -18,11 +18,11 @@ _Software Engineer_
 
 - Tech Specialism, focused on data & integration engineering & technology. Using python, APIs, data storage, data analysis & manipulation, configuration of Software as a Service.
 - Analysis Specialism, focused Business Analysis and related Product / Project management skills. Process mapping, user stories, backlog management, project support & business/systems requirements analysis. 
-● Customer insights supporting personalisation
-● Addressing data privacy and security related strategic changes
-● AI (Artificial Intelligence) and Machine Learning based initiatives
-● Data lake integrating multiple source systems
-● Improving self-service capabilities in digital channels
+- Customer insights supporting personalisation
+- Addressing data privacy and security related strategic changes
+- AI (Artificial Intelligence) and Machine Learning based initiatives
+- Data lake integrating multiple source systems
+- Improving self-service capabilities in digital channels
 
 **Self Employed** (February 2020 to December 2022)  
 _Interior Architect_
