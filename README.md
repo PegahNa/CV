@@ -20,7 +20,7 @@ _Software Engineer_
 - Analysis Specialism, focused Business Analysis and related Product / Project management skills. Process mapping, user stories, backlog management, project support & business/systems requirements analysis. 
 - Customer insights supporting personalisation
 - Addressing data privacy and security related strategic changes
-- AI (Artificial Intelligence) and Machine Learning based initiatives
+- AI and Machine Learning based initiatives
 - Data lake integrating multiple source systems
 - Improving self-service capabilities in digital channels
 
