@@ -6,7 +6,7 @@ I'm excited about the potential of technology to make a positive impact on the w
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **MapChat**                  | A webapp to do x. | React-Native, Jest, expo, etc. |
+| **MapChat**                  | MapChat is a React Native app built with Expo that allows architecture enthusiasts to explore buildings around them and generate pick up lines based on those buildings. | React-Native, Jest, expo, etc. |
 | **Acebook**                  | A webapp to do y. | React             |
 
 ## Work Experience
