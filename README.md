@@ -1,15 +1,13 @@
 ## Pegah Nazari
 
-I'm a creative thinker with a strong technical background. I'm passionate about using technology to solve real-world problems. I've recently graduated from Makers Academy, a developer bootcamp where I learned the fundamentals of software development. I'm now looking for my first role as a Junior Software Engineer.
-
 I'm excited about the potential of technology to make a positive impact on the world. I want to use my skills to develop innovative solutions to real-world problems. I'm also excited about the opportunity to work with talented and passionate people who are also committed to making a difference.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **MapChat**                  | A webapp to do x. | React-Native, Jest, expo, etc. |
+| **Acebook**                  | A webapp to do y. | React             |
 
 ## Work Experience
 
@@ -46,7 +44,7 @@ _Interior Architect_
 
 ## Skills
 
-As a seasoned Interior Architect, I have honed my skills in approaching each project with boundless creativity and an unwavering commitment to quality. My ability to work collaboratively with clients, colleagues, and contractors has been instrumental in bringing each project to life. Through years of experience, I have also developed exceptional project management skills, enabling me to prioritize tasks and meet strict deadlines without sacrificing quality.
+I have honed my skills in approaching each project with boundless creativity and an unwavering commitment to quality. My ability to work collaboratively with clients, colleagues, and contractors has been instrumental in bringing each project to life. Through years of experience, I have also developed exceptional project management skills, enabling me to prioritize tasks and meet strict deadlines without sacrificing quality.
 
 Driven by a passion for excellence, I am now embarking on a new career path in software development. My ability to think critically, communicate effectively, and adapt to changing circumstances make me well-suited for this exciting and dynamic field. I am eager to bring my unique perspective to the table and contribute to innovative solutions that push the boundaries of what's possible.
 
@@ -73,7 +71,7 @@ During my time at Makers Academy, I immersed myself in the world of software dev
 
 I also honed my abilities in Ruby and Rails, as well as JavaScript, allowing me to develop robust and interactive web applications. To ensure the quality of my code, I regularly used testing frameworks such as RSpec and Jasmine, which helped me write reliable and bug-free code.
 
-In addition to these technical skills, I worked extensively in a Pair programming environment, where teamwork and communication were essential. Collaborating with other developers allowed me to share knowledge and approaches, and it was often through these interactions that we were able to find the most effective solutions to problems.
+I worked extensively in a Pair programming environment, where teamwork and communication were essential. Collaborating with other developers allowed me to share knowledge and approaches, and it was often through these interactions that we were able to find the most effective solutions to problems.
 
 Overall, my time at Makers Academy helped me develop into a self-sufficient developer who values best practices and works collaboratively to create high-quality code.
 
@@ -90,9 +88,6 @@ Advanced debugging skills and the ability to design efficient algorithms ensured
 - Bachelor of Arts in Interior Architecture
 - Graduated with First Class Honours
 - Awarded scholarship for academic achievement
-
-#### PMP Certification (2022)
-Certified Project Management Professional with enhanced skills in leading and managing
 
 ## Interests
 
