@@ -7,7 +7,7 @@ I'm excited about the potential of technology to make a positive impact on the w
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[MapChat](https://github.com/PegahNa/MapChat)**                  | MapChat is a React Native app built with Expo that allows architecture enthusiasts to explore buildings around them and generate pick up lines based on those buildings. | React-Native, Jest, expo, etc. |
-|**[Booking Engine]**|  |     C#, MVC, Next.Js, AWS, etc        | 
+|**[Booking Engine]**|  |     C#, MVC, Next.Js, AWS, Javascript, etc        | 
 
 ## Work Experience
 
