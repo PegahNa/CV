@@ -22,47 +22,12 @@ _Software Engineer_
 - Data lake integrating multiple source systems
 - Improving self-service capabilities in digital channels
 
-#### **Self Employed** (February 2020 to December 2022)  
-_Interior Architect_
-
-- Managed and acquired projects
-- Focused on interior design styling to add value to properties, requiring a deep understanding of market trends and consumer preferences
-- Honed communication skills through interactions with clients, suppliers, and team members
-
-#### **Lorenc Design** (February 2019 to January 2020)  
-_Interior Architect_
-
-- Worked on a high budget project, gaining valuable experience in project management, design concept development, and technical drawing
-- Dealt with a highly demanding client, developing effective skills to achieve project goals successfully
-- Honed communication skills through interactions with clients, suppliers, and team members
-
-#### **Silver& Co** (June 2017 to December 2018)  
-_Interior Architect_
-
-- Consulted with clients to determine architectural preferences to meet overall design goals
-- Developed concepts and prepared interior equipment and finishes
 
 ## Skills
 
 I have honed my skills in approaching each project with boundless creativity and an unwavering commitment to quality. My ability to work collaboratively with clients, colleagues, and contractors has been instrumental in bringing each project to life. Through years of experience, I have also developed exceptional project management skills, enabling me to prioritize tasks and meet strict deadlines without sacrificing quality.
 
 Driven by a passion for excellence, I am now embarking on a new career path in software development. My ability to think critically, communicate effectively, and adapt to changing circumstances make me well-suited for this exciting and dynamic field. I am eager to bring my unique perspective to the table and contribute to innovative solutions that push the boundaries of what's possible.
-
-#### Communication skills:
-
-I had the opportunity to communicate with clients, contractors, and other stakeholders. I am able to clearly and concisely explain my ideas as well as listen to and understand the needs of others.
-
-#### Problem-solving skills:
-
-I was constantly faced with challenges and problems to solve. I had the opportunity to quickly identify the root cause of a problem, develop a solution, and then communicate that solution to others.
-
-#### Attention to detail:
-
-I had the keen eye for detail. I was able to spot even the smallest errors in my work, as even a small mistake could have a significant impact on the final product.
-
-#### Technical skills:
-
-I was proficient in using a variety of software programs, including CAD, 3D modeling, and design software.
 
 ## Education
 
@@ -88,15 +53,4 @@ Advanced debugging skills and the ability to design efficient algorithms ensured
 - Bachelor of Arts in Interior Architecture
 - Graduated with First Class Honours
 - Awarded scholarship for academic achievement
-
-## Interests
-
-### World explorer:
-Passionate world traveler with a thirst for knowledge and adventure. I have visited over 20 countries and have learned about different cultures and people.
-
-### Fitness enthusiast:
-Health-conscious and motivated individual who enjoys a variety of physical activities. I find that exercise helps me to stay healthy, happy, and productive.
-
-### Culinary adventure:
-Creative and adventurous cook who loves to try new recipes. I find that cooking is a great way to be creative and to learn new things while also indulging my taste buds.
 
